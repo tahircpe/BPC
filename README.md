@@ -2,7 +2,7 @@
 Bioprocess Controller
 
 # Introduction 
-This manual outlines the basic information to use the Bioprocess Controller (BPC) and its App. BPC is small and low cost control unit to record the data and control parameters for lab- and pilot-scale fermentation and biochemical experimental setups. BPC is a small and low cost solution and is developed using Raspberry Pi.
+This manual outlines the basic information to use the Bioprocess Controller (BPC) and its App. BPC is small and low cost control unit to record the data and control parameters for lab- and pilot-scale fermentation and biochemical experimental setups. BPC is developed using Raspberry Pi.
 
 ![Bioprocess controller (BPC) next to USB stick.](./Manual/BPC2.png)
 
